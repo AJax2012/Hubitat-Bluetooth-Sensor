@@ -2,6 +2,10 @@
 
 python program to sense bluetooth MAC addresses. NOTE: I haven't gotten this working with iPhone devices becuase Apple disables any sort of scanning unless it is running in the foreground. This has only been successfully tested with Android devices.
 
+## NOTE
+
+I no longer use Hubitat. This repository will not be maintained or updated, but please feel free to fork this repository and make updates.
+
 ## Installation
 
 If you are using something other than a rapsberry pi, install the following dependencies:
